@@ -1,0 +1,15 @@
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\bin\Debug\net6.0\UcakRezervasyonEminDuman.exe
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\bin\Debug\net6.0\UcakRezervasyonEminDuman.deps.json
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\bin\Debug\net6.0\UcakRezervasyonEminDuman.runtimeconfig.json
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\bin\Debug\net6.0\UcakRezervasyonEminDuman.dll
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\bin\Debug\net6.0\UcakRezervasyonEminDuman.pdb
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\obj\Debug\net6.0\UcakRezervasyonEminDuman.csproj.AssemblyReference.cache
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\obj\Debug\net6.0\UcakRezervasyonEminDuman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\obj\Debug\net6.0\UcakRezervasyonEminDuman.AssemblyInfoInputs.cache
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\obj\Debug\net6.0\UcakRezervasyonEminDuman.AssemblyInfo.cs
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\obj\Debug\net6.0\UcakRezervasyonEminDuman.csproj.CoreCompileInputs.cache
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\obj\Debug\net6.0\UcakRezervasyonEminDuman.dll
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\obj\Debug\net6.0\refint\UcakRezervasyonEminDuman.dll
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\obj\Debug\net6.0\UcakRezervasyonEminDuman.pdb
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\obj\Debug\net6.0\UcakRezervasyonEminDuman.genruntimeconfig.cache
+C:\Users\Rossi46\OneDrive\Masaüstü\UcakRezervasyonEminDuman\UcakRezervasyonEminDuman\obj\Debug\net6.0\ref\UcakRezervasyonEminDuman.dll
